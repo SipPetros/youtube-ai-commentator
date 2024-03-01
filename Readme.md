@@ -12,11 +12,11 @@ This Chrome extension enhances your YouTube commenting experience by providing A
 6. Enable developer mode in Chrome's extension settings.
 7. Load the extension by selecting "Load unpacked" and choosing the `build` directory of the extension.
 <div>
-    <a href="https://www.loom.com/share/b425835f6eb84c0683ef56aebd8b9d1e">
-      <p>SipPetros/youtube-smart-commentator - 1 March 2024 - Watch Video</p>
+    <a href="https://www.loom.com/share/4dc187d31801435fb76eebc47a39eb13">
+      <p>How to Install YouTube-Smart-Commentator - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/b425835f6eb84c0683ef56aebd8b9d1e">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b425835f6eb84c0683ef56aebd8b9d1e-with-play.gif">
+    <a href="https://www.loom.com/share/4dc187d31801435fb76eebc47a39eb13">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4dc187d31801435fb76eebc47a39eb13-with-play.gif">
     </a>
   </div>
 
@@ -32,7 +32,7 @@ This Chrome extension enhances your YouTube commenting experience by providing A
 
 <div>
     <a href="https://www.loom.com/share/96e0d58b2bcc4c54a757b66c71b5dd61">
-      <p>(117) YouTube - 6 February 2024 - Watch Video</p>
+      <p>How to use YouTube-Smart-Commentator</p>
     </a>
     <a href="https://www.loom.com/share/96e0d58b2bcc4c54a757b66c71b5dd61">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/96e0d58b2bcc4c54a757b66c71b5dd61-with-play.gif">
