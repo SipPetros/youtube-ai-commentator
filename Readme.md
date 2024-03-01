@@ -26,3 +26,5 @@ This Chrome extension enhances your YouTube commenting experience by providing A
 
 For any inquiries or feedback, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sipan-petrosyan-123870207/).
 
+## Usage
+https://www.loom.com/share/96e0d58b2bcc4c54a757b66c71b5dd61
