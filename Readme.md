@@ -7,10 +7,10 @@ This Chrome extension enhances your YouTube commenting experience by providing A
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the root directory of the extension.
 3. Run `npm install` to install the necessary dependencies.
-4. Replace the placeholder for the OpenAI API key with your actual API key in the appropriate location.
+4. Replace the placeholder for the OpenAI API key with your actual API key in the appropriate location `contentScript.tsx`.
 5. Run `npm run build` to build the extension.
 6. Enable developer mode in Chrome's extension settings.
-7. Load the extension by selecting "Load unpacked" and choosing the `build` directory of the extension.
+7. Load the extension by selecting "Load unpacked" and choosing the `dist` directory of the extension.
 <div>
     <a href="https://www.loom.com/share/4dc187d31801435fb76eebc47a39eb13">
       <p>How to Install YouTube-Smart-Commentator - Watch Video</p>
