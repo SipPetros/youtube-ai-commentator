@@ -30,11 +30,6 @@ This Chrome extension enhances your YouTube commenting experience by providing A
 6. Once the replies are generated, review them and select the one you want to use.
 7. Click on the "Reply" button next to your chosen reply to submit it as your response to the comment.
 
-## Contact
-
-For any inquiries or feedback, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sipan-petrosyan-123870207/).
-
-## Usage
 <div>
     <a href="https://www.loom.com/share/96e0d58b2bcc4c54a757b66c71b5dd61">
       <p>(117) YouTube - 6 February 2024 - Watch Video</p>
@@ -43,4 +38,9 @@ For any inquiries or feedback, feel free to contact me on [LinkedIn](https://www
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/96e0d58b2bcc4c54a757b66c71b5dd61-with-play.gif">
     </a>
   </div>
+
+## Contact
+
+For any inquiries or feedback, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sipan-petrosyan-123870207/).
+
 
