@@ -1,0 +1,10 @@
+/node_modules
+*.test.tsx
+*.test.js
+rollup.config.js
+/scripts
+.storybook
+.babelrc
+
+/src/generatedTypes
+/src/productTour.js

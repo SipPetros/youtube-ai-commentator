@@ -1,0 +1,52 @@
+{
+  "name": "youtube-comment-replier",
+  "author": "Himanshu Batra",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "webpack --watch --progress --config webpack.dev.js",
+    "build": "webpack --watch --progress --config webpack.prod.js",
+    "linter:check": "eslint 'src/**/*.{js,jsx}' --quiet",
+    "linter": "eslint 'src/**/*.{js,jsx}' --quiet --fix"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.188",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.4",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.1",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "html-webpack-plugin": "^5.5.0",
+    "postcss-loader": "^7.0.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.6.4",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.15.7",
+    "@mui/material": "^5.15.7",
+    "@mui/styled-engine-sc": "npm:@mui/styled-engine-sc@latest",
+    "autoprefixer": "^10.4.7",
+    "cors": "^2.8.5",
+    "openai": "^4.26.0",
+    "postcss": "^8.4.14",
+    "react-router-dom": "6.2",
+    "styled-components": "^6.1.8"
+  },
+  "resolutions": {
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  },
+  "description": "## React 18 and TailwindCSS Supported"
+}
